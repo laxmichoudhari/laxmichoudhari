@@ -70,7 +70,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/laxmichoudhari/laxmichoudhari.github.io](https://github.com/laxmichoudhari/laxmichoudhari.github.io)
+- 👨‍💻 All of my projects are available at [https://laxmichoudhari.github.io/](https://github.com/laxmichoudhari/laxmichoudhari.github.io)
 
 - 💬 Ask me about **React, Node JS, JavaScript, HTML, CSS, Data Structure Algorithm**
 
