@@ -106,7 +106,7 @@
 
  <p><img align="center" src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-all-mode" alt="laxmi" height="300" width="100%"/></p> 
  
-  ![snake gif](https://github.com/laxmichoudhari/laxmichoudhari/blob/output/github-contribution-grid-snake.gif)
+<!--   ![snake gif](https://github.com/laxmichoudhari/laxmichoudhari/blob/output/github-contribution-grid-snake.gif) -->
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=laxmichoudhari&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
