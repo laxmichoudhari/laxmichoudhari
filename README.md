@@ -9,7 +9,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmichoudhari&label=Profile%20views&color=0e75b6&style=flat" alt="laxmichoudhari" /> </p>
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/laxmichoudh13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laxmichoudh13" height="30" width="40" /></a>
@@ -17,7 +17,7 @@
 <a href="https://codesandbox.com/laxmichoudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="laxmichoudhari" height="30" width="40" /></a>
 <a href="https://instagram.com/er.mahi_choudhari13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er.mahi_choudhari13" height="30" width="40" /></a>
 </p>
-
+ -->
 
 <img align="right" height="400" width="40%" alt="coding" src="https://www.bing.com/th/id/OGC.e49266b020eb9e125f4bc87503414444?pid=1.7&rurl=https%3a%2f%2fimages.lemonly.com%2fwp-content%2fuploads%2f2018%2f08%2f07150313%2fHomebase_Thumb_v01.gif&ehk=b4H29LR3MhRw5wkcupcsFbCjD4wkHWMsnTlYEir0Oy4%3d">
 
