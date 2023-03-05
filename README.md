@@ -1,4 +1,4 @@
-  <img align="center" src="https://th.bing.com/th/id/OIP.Jg35DTU8xEFi-BbUaql9CQHaEI?w=323&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="laxmi" height="300" width="100%"/>
+  <img align="center" src="https://freedesignfile.com/upload/2017/05/Young-beautiful-female-programmer-Stock-Photo.jpg" alt="laxmi"  width="100%" height="400">
 <h1 align="center">Hi 👋, I'm Laxmi Sanjay Choudhari</h1>
 
 <h3 align="center">A passionate full Stack Web developer from India</h3>
