@@ -1,3 +1,4 @@
+  <img align="center" src="https://th.bing.com/th/id/OIP.Jg35DTU8xEFi-BbUaql9CQHaEI?w=323&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="laxmi" height="300" width="100%"/>
 <h1 align="center">Hi 👋, I'm Laxmi Sanjay Choudhari</h1>
 
 <h3 align="center">A passionate full Stack Web developer from India</h3>
@@ -116,5 +117,7 @@
 
 
   <p><img align="center" src="https://www.bing.com/th/id/OGC.d992a360ab53e859349b2e7ff5f01ede?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f721524%2fscreenshots%2f2945201%2fshot-final-sonya-airport.gif&ehk=L6LKCSGAN9lBbb4OiuK88bd%2fYYG5drlPzQGc05jVDEk%3d" alt="laxmi" height="300" width="100%"/></p>
+  
+
   
   
